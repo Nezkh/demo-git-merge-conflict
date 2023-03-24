@@ -1,7 +1,7 @@
-Hola mundo de chocolate
-adios venus
+Hola mundo de choco
+adios men
 
-linea 1
+linea 10
 linea 2
 
 
